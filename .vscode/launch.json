@@ -2,6 +2,13 @@
   "version": "0.2.0",
   "configurations": [
     {
+      "type": "java",
+      "name": "Salaryslip",
+      "request": "launch",
+      "mainClass": "Salaryslip",
+      "projectName": "DSA-LAB-JAVA_23c2616c"
+    },
+    {
       "name": "C/C++ Runner: Debug Session",
       "type": "cppdbg",
       "request": "launch",

@@ -23,7 +23,6 @@ public class Salaryslip{
             System.out.println("INVALID INPUT, NOW USING ENGLISH AS DEFAULT");
             locale =  Locale.of("en", "US");
         }
-        System.out.println(locale);
         System.out.println("ENTER THE BASIC SALARY: ");
         int n=sc.nextInt();
         salaryFormat(n, locale);

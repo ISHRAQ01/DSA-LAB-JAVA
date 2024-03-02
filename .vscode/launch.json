@@ -3,6 +3,20 @@
   "configurations": [
     {
       "type": "java",
+      "name": "Abc",
+      "request": "launch",
+      "mainClass": "Abc",
+      "projectName": "DSA-LAB-JAVA_23c2616c"
+    },
+    {
+      "type": "java",
+      "name": "Isprime",
+      "request": "launch",
+      "mainClass": "Isprime",
+      "projectName": "DSA-LAB-JAVA_23c2616c"
+    },
+    {
+      "type": "java",
       "name": "Salaryslip",
       "request": "launch",
       "mainClass": "Salaryslip",

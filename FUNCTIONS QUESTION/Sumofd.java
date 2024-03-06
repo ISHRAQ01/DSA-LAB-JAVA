@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class Sumofdigit {
+public class Sumofd {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
         System.out.print("Enter a number: ");

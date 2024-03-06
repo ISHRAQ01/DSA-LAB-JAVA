@@ -6,6 +6,6 @@ public class Greetuser{
         greetuser(n-1);
     }
     public static void main(String[] args) {
-        greetuser(5);
+        greetuser(10);
     }
 }

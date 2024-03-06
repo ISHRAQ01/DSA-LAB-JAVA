@@ -5,12 +5,12 @@ public class Sumofdigit {
         Scanner scanner = new Scanner(System.in);
         System.out.print("Enter a number: ");
         int number = scanner.nextInt();
-        int sum = getSumOfDigits(number);
+        int sum = getumOfDigits(number);
         System.out.println("Sum of digits: " + sum);
         scanner.close();
     }
 
-    public static int getSumOfDigits(int number) {
+    public static int getumOfDigits(int number) {
         int sum = 0;
         while (number != 0) {
             sum += number % 10;

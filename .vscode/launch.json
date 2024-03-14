@@ -3,6 +3,13 @@
   "configurations": [
     {
       "type": "java",
+      "name": "MyApp",
+      "request": "launch",
+      "mainClass": "MyApp",
+      "projectName": "DSA-LAB-JAVA_23c2616c"
+    },
+    {
+      "type": "java",
       "name": "Question",
       "request": "launch",
       "mainClass": "Question",

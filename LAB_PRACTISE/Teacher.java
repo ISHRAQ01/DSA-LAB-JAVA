@@ -1,5 +1,3 @@
-package com.demo;
-
 public class Teacher {
     private String name;
 

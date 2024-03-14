@@ -1,4 +1,4 @@
-import Student;
+import DSA_LAB_JAVA.Lab_PRACTISE.Student;
 import Teacher;
 
 public class MyApp {

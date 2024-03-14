@@ -17,7 +17,7 @@ public class Area {
     }
 
     public static void main(String[] args) {
-        Area a=new Area();
+        Area a =new Area();
         Area circle = new Area(5.0); // Creating a circle object
         Area rectangle = new Area(6.0, 4.0); // Creating a rectangle object
     }

@@ -1,5 +1,5 @@
-import Student;
-import Teacher;
+import com.demo.Student;
+import com.demo.Teacher;
 
 public class MyApp {
     public static void main(String[] args) throws Exception {

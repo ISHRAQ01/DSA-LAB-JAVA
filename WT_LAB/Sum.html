@@ -1,0 +1,18 @@
+<html>
+    <head>
+        <label by id="p1">ENTER THE NUMBER1:</label>
+        <input type="number" id="n1"><br>
+        <label by id="p2">ENTER THE NUMBER2:</label>
+        <input type="number" id="n2"><br>
+        THE SUM OF TWO NUMBERS IS:<span id="p3"></span><br>
+        <button  onclick="myfunction()">CALCULATE SUM</button>
+        <script>
+            function myfunction(){
+                var x=document.getElementById("n1").value;
+                var y=document.getElementById("n2").value;
+                document.getElementById("p3").innerHTML =x+y;
+                }
+        </script>
+
+    </head>
+</html>

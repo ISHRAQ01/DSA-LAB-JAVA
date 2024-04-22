@@ -1,0 +1,25 @@
+<!DOCTYPE address [
+    <!ELEMENT address (name,email,phone,dateofbirth)>
+    <!ELEMENT name (fname,lname)>
+    <!ELEMENT fname (#PCDATA)>
+    <!ELEMENT lname (#PCDATA)>
+    <!ELEMENT email (#PCDATA)>
+    <!ELEMENT phone (#PCDATA)>
+    <!ELEMENT dateofbirth (day,month,year)>
+    <!ELEMENT day (#PCDATA)>
+    <!ELEMENT month (#PCDATA)>
+    <!ELEMENT year (#PCDATA)>
+]>
+<address>
+    <name>
+        <fname>KANISHK</fname>
+        <lname>SHARMA</lname>
+    </name>
+    <email>SHARMAKANISHK37@gmail.com</email>
+    <phone>2102310100053(SEC-A)</phone>
+    <dateofbirth>
+        <day>12</day>
+        <month>AUGUST</month>
+        <year>2004</year>
+    </dateofbirth>
+</address>

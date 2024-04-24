@@ -10,7 +10,7 @@ public class Whois {
         InputStream in=s.getInputStream();
         OutputStream out=s.getOutputStream();
 
-        String str=(args.length==0 ?"OraclePressBooks.com":args[0])+"\n";
+        String str=(args.length==0 ?"codeandhire.com":args[0])+"\n";
         byte buf[]=str.getBytes();
         out.write(buf);
 

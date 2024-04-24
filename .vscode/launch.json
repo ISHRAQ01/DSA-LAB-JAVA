@@ -3,6 +3,20 @@
   "configurations": [
     {
       "type": "java",
+      "name": "JDBC",
+      "request": "launch",
+      "mainClass": "JDBC",
+      "projectName": "DSA_LAB_JAVA_1be0a6d0"
+    },
+    {
+      "type": "java",
+      "name": "Jdbc",
+      "request": "launch",
+      "mainClass": "Jdbc",
+      "projectName": "DSA_LAB_JAVA_1be0a6d0"
+    },
+    {
+      "type": "java",
       "name": "MyApp",
       "request": "launch",
       "mainClass": "MyApp",
